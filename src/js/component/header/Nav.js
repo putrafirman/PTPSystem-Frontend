@@ -1,14 +1,15 @@
 import React from "react";
 import ReactDOM from "react-dom";
 
-export default class Layouts extends React.Component {
+export default class Header extends React.Component {
+
 
   //main pada js
   render() {
-    return(
 
+    return(
       <div>
-        {this.props.children}
+        ddd
       </div>
     )
   }
