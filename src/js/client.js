@@ -10,7 +10,6 @@ ReactDOM.render(
   <Router history={hashHistory}>
     <Route path="/" component={Layout}>
       <IndexRoute component={Login}></IndexRoute>
-      // <Route path="productlist" component={ProductList}></Route>
     </Route>
   </Router>
   , app);

@@ -9,7 +9,7 @@ export default class Header extends React.Component {
 
     return(
       <div>
-        ddd
+        #ini nav
       </div>
     )
   }

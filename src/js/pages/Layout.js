@@ -10,9 +10,10 @@ export default class Layout extends React.Component {
   render() {
     return(
       <div>
+        #ini layout
         <Header/>
-          aaaaa
-          {this.props.children}
+
+           {this.props.children}
 
         <Footer/>
       </div>

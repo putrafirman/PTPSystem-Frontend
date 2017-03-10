@@ -12,7 +12,7 @@ export default class Header extends React.Component {
     return(
       <div>
         <Nav/>
-        ini header
+        #ini header
       </div>
     )
   }

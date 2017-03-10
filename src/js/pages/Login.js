@@ -7,7 +7,7 @@ export default class Login extends  React.Component {
   render() {
     return(
       <div>
-        This is login
+        #ini login
       </div>
     )
   }
