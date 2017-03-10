@@ -1,7 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
 
-export default class Layout2 extends React.Component {
+export default class Layouts extends React.Component {
 
   //main pada js
   render() {

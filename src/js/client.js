@@ -10,9 +10,7 @@ ReactDOM.render(
   <Router history={hashHistory}>
     <Route path="/" component={Layout}>
       <IndexRoute component={Home}></IndexRoute>
-      <Route path="productlist" component={ProductList}></Route>
-      <Route path="about" component={Aboutus}></Route>
-      <Route path="detail/:id" component={Detail}></Route>
+      // <Route path="productlist" component={ProductList}></Route>
     </Route>
   </Router>
   , app);
