@@ -1,0 +1,7 @@
+.content-wrapper, .right-side, .main-footer {
+    margin-left: 0px;
+}
+.main-header .navbar {
+    margin-left: 0px;
+    background-color: #3c8dbc;
+}
