@@ -9,7 +9,6 @@ export default class Copyright extends React.Component {
 
     return(
       <div>
-        #ini copyright
       </div>
     )
   }

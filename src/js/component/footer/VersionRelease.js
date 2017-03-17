@@ -9,7 +9,6 @@ export default class VersionRelease extends React.Component {
 
     return(
       <div>
-        #ini version
       </div>
     )
   }

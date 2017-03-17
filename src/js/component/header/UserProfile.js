@@ -9,7 +9,6 @@ export default class UserProfile extends React.Component {
 
     return(
       <div>
-        #ini user profileee
       </div>
     )
   }

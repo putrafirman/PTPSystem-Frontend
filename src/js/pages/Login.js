@@ -7,7 +7,6 @@ export default class Login extends  React.Component {
   render() {
     return(
       <div>
-        #ini login
         <div class="content-wrapper">
         <div class="container">
           <section class="content">

@@ -10,7 +10,6 @@ export default class Layout extends React.Component {
   render() {
     return(
       <div>
-        #ini layout
         <body class="hold-transition skin-blue layout-top-nav">
         <div class="wrapper">
         <Header/>
