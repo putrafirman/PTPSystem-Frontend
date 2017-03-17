@@ -11,11 +11,15 @@ export default class Layout extends React.Component {
     return(
       <div>
         #ini layout
+        <body class="hold-transition skin-blue layout-top-nav">
+        <div class="wrapper">
         <Header/>
 
            {this.props.children}
 
         <Footer/>
+        </div>
+        </body>
       </div>
     )
   }
