@@ -9,6 +9,9 @@ export default class VersionRelease extends React.Component {
 
     return(
       <div>
+      <div class="pull-right hidden-xs">
+        <b>Version</b> 1.0.0
+      </div>
       </div>
     )
   }

@@ -9,6 +9,7 @@ export default class Copyright extends React.Component {
 
     return(
       <div>
+      <strong>Copyright &copy; 2017. Malang Dev Team.</strong> All rights reserved.
       </div>
     )
   }
